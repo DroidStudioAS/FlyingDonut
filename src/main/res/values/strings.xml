@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlyingDonut</string>
+    <string name="startInstructions">Welcome to Flying Donut!  Press the donut to start, and click it as fast as you can untill you reach the top of the screen.  Whatever you do, DO NOT LET THE DONUT FALL!</string>
+</resources>
